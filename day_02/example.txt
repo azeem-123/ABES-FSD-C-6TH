@@ -1,0 +1,1 @@
+This is an example file created using writeFileSync method. This is an example file created using appendFileSync method. This is an example file created using appendFileSync method. This is an example file created using appendFileSync method. This is an example file created using appendFileSync method.
